@@ -2,20 +2,20 @@
 
 A machine learning project that analyzes loan applicant data and predicts
 [loan approval / credit risk / loan repayment outcome]. Built with Python,
-pandas, NumPy, scikit-learn, Matplotlib, and Seaborn.
+pandas, NumPy, scikit-learn, Matplotlib,seaborn,different Machine Learning models. 
 
 ## Project Overview
 
-This project uses applicant and loan information to help [describe the goal].
+This project uses applicant and loan information to help the applicant is reliable for loan or not.
 The model predicts based on features such as
 [examples: income, credit history, loan amount, employment status].
 
-https://github.com/shivam-clone/Credit-Wise-Loan-System.git
 
 ## Features
 
 - Data cleaning and preprocessing
 - Exploratory data analysis and visualizations
+-Feature Engineering and Encoding
 
 - Evaluation using [accuracy, precision, recall, F1-score, ROC-AUC, etc.]
 
@@ -26,5 +26,5 @@ https://github.com/shivam-clone/Credit-Wise-Loan-System.git
 - pandas and NumPy
 - scikit-learn
 - Matplotlib and Seaborn
--Machine learing algorithm
+-different Machine learing Model
 -Testing and Training Model
